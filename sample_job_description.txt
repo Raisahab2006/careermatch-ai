@@ -1,0 +1,12 @@
+Junior AI / Python Developer
+
+Responsibilities:
+- Build Python applications and REST APIs.
+- Work with data processing tools such as Pandas and NumPy.
+- Understand machine learning fundamentals and model evaluation.
+- Develop prototypes with FastAPI or Streamlit.
+- Use Git and GitHub for version control.
+- Work with SQL databases and collaborate with a software team.
+
+Preferred skills:
+Python, SQL, Git, GitHub, machine learning, scikit-learn, FastAPI, REST API, pandas, NumPy, data analysis, model evaluation, and deployment.
